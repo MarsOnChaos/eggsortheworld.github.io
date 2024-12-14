@@ -12,30 +12,8 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/prism.css">
-    <!--[if lt IE 9]>
-    <script src="javascript/html5shiv/html5shiv.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">Eggs Are Good For You! Here's Why.</h1>
-        <ul>
-          <li class="download"><a class="buttons" href=https://github.com/MarsOnChaos/definitely-real-research-paper/new/main">Download ZIP</a></li>
-          <li><a class="buttons github" href="https://github.com/MarsOnChaos/definitely-real-research-paper/new/main">View On GitHub</a></li>
-          <li><a class="buttons pdf" href="https://github.com/MarsOnChaos/definitely-real-research-paper/new/main">Download PDF</a></li>
-        </ul>
-        <p class="header">This project is maintained by <a class="header name" href="https://github.com/MarsOnChaos">MarsSG</a></p>
-      </header>
-<!-- 
-##############################################################
-The real text begins here.
-##############################################################
- -->
+   
+   
 <section>
 <h1>Technical note</h1>
 <h2>A template for writing scientific papers</h2>
